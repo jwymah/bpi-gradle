@@ -3,7 +3,6 @@ Adapted to run with gradle for cmd line build + execution.
 Option 1: Command line:
 1. Checkout the code and navigate to base directory to run
 ```
-$ ./gradlew build
 $ ./gradlew run --console=plain
 > Task: Run
 Awaiting your input. eg "1110011". Type "q" to exit
